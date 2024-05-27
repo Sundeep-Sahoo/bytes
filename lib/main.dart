@@ -18,5 +18,3 @@ void main() async {
   // SettingsView.
   runApp(MyApp(settingsController: settingsController));
 }
-
-// hello world .
